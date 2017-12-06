@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (4.5.1)
+  - JTAppleCalendar (7.1.4)
+  - SnapKit (4.0.0)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - JTAppleCalendar (~> 7.0)
+  - SnapKit (~> 4.0.0)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  JTAppleCalendar: aaeee95e939e0b0a381fb51eb77738bd26bb10f6
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 8b5b7e9da91433a3d6694e00fc0dd57e082ca71c
+
+COCOAPODS: 1.2.1
